@@ -1,5 +1,5 @@
 {
-  "name": "cz-conventional-assi",
+  "name": "@assi/cz-conventional-assi",
   "version": "1.0.0",
   "description": "Adaptador para convenciones en Ramas, Commits de git",
   "main": "index.js",
