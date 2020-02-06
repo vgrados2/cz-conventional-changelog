@@ -1,0 +1,20 @@
+{
+  "types": {
+    "feat": {
+      "description": "Una nueva característica",
+      "title": "Features"
+    },
+    "fix": {
+      "description": "Una corrección de error (issue)",
+      "title": "Bug Fixes"
+    },
+    "refactor": {
+      "description": "Un cambio de código que no corrige un error ni agrega una función",
+      "title": "Code Refactoring"
+    },
+    "ci": {
+      "description": "Cambios en nuestros archivos de configuración de CI y scripts",
+      "title": "Continuous Integrations"
+    }
+  }
+}
