@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ddbb90-fbd5-4f93-b86d-d7f139c53062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/engine-branch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine-branch.js" beforeDir="false" afterPath="$PROJECT_DIR$/engine-branch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580961190407</updated>
       <workItem from="1580961191645" duration="16726000" />
+      <workItem from="1581048339642" duration="3062000" />
     </task>
     <servers />
   </component>
@@ -69,7 +71,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

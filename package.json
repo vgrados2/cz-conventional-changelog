@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Adaptador para convenciones en Ramas, Commits de git",
   "main": "index.js",
+  "bin": {
+    "new-branch": "./bin/index.js"
+  },
   "scripts": {
     "commit": "git-cz",
     "format": "prettier --write *.js"

@@ -7,7 +7,6 @@ const chalk = require('chalk');
 const git = require('simple-git');
 const {spawnSync} = require('child_process');
 const inquirer = require('inquirer');
-const branchTypes = require('./commons/types');
 
 const transformInput = function (input) {
   input = input.trim();
@@ -19,8 +18,8 @@ function hasWhiteSpace(value) {
   return inValid.test(value) ? 'No se permiten espacios en blanco' : true;
 }
 
-module.exports = function () {
-  const types = branchTypes.types;
+module.exports = function (options) {
+  const types = options.types;
   const length = longest(Object.keys(types)).length + 1;
   const choices = map(types, function (type, key) {
     return {
