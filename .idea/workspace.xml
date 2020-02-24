@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ddbb90-fbd5-4f93-b86d-d7f139c53062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engine-branch.js" beforeDir="false" afterPath="$PROJECT_DIR$/engine-branch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commons/types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine-branch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,29 +31,35 @@
   </component>
   <component name="ProjectId" id="1XPwlmiYT3dakGdeDr7Dmkgckwo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-tslint" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\bin" />
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-git\commons" />
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-tslint" />
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-git" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,7 +72,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580961190407</updated>
       <workItem from="1580961191645" duration="16726000" />
-      <workItem from="1581048339642" duration="3062000" />
+      <workItem from="1581048339642" duration="3806000" />
+      <workItem from="1582476881706" duration="688000" />
+      <workItem from="1582477730546" duration="26866000" />
     </task>
     <servers />
   </component>
@@ -78,5 +93,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582499820159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1680.26.1680.1010@0.0.1920.1040" timestamp="1582499820159" />
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582477559002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1680.26.1680.1010@0.0.1920.1040" timestamp="1582477559002" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582506415976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1680.26.1680.1010@0.0.1920.1040" timestamp="1582506415976" />
   </component>
 </project>

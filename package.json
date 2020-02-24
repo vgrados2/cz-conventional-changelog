@@ -1,19 +1,20 @@
 {
-  "name": "@assi/cz-conventional-assi",
+  "name": "@assi/ibk-conventions",
   "version": "1.0.0",
-  "description": "Adaptador para convenciones en Ramas, Commits de git",
+  "description": "Convenciones para ramas, commits de git y validaciones de ts lint",
   "main": "index.js",
   "bin": {
-    "new-branch": "./bin/index.js"
+    "cn-ibk-branch-generate": "bin/ibk-conventions-git/ibk_branch_generator.js",
+    "cn-branch-validator": "bin/ibk-conventions-git/ibk_branch_validator.js",
+    "cn-commit-normalize": "bin/ibk-conventions-git/ibk_normalize_commit.js",
+    "cn-versioning-lerna": "bin/ibk-conventions-versioning/ibk-versioning-lerna.js"
   },
+  "files": [
+    "modules/",
+    "modules/ibk-conventions-tslint/ibk-tslint-angular.json"
+  ],
   "scripts": {
-    "commit": "git-cz",
     "format": "prettier --write *.js"
-  },
-  "homepage": "https://github.com/vgrados2/cz-conventional-changelog",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vgrados2/cz-conventional-changelog"
   },
   "engineStrict": true,
   "engines": {
@@ -22,20 +23,15 @@
   "author": "Victor Grados <vgrados2@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@ibk/rules-tslint": "^1.2.5",
     "chalk": "^2.4.1",
+    "codelyzer": "^4.5.0",
+    "husky": "^4.2.3",
     "inquirer": "^7.0.4",
-    "lodash.map": "^4.5.1",
-    "longest": "^2.0.1",
+    "prettier": "^1.19.1",
     "right-pad": "^1.0.1",
-    "simple-git": "^1.131.0"
-  },
-  "devDependencies": {
-    "prettier": "^1.15.3",
-    "semver": "^6.2.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./index.js"
-    }
+    "simple-git": "^1.131.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.8.2"
   }
 }
