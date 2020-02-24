@@ -20,13 +20,13 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.1",
-    "tslint": "^6.0.0",
     "codelyzer": "^4.5.0",
     "husky": "^4.2.3",
     "inquirer": "^7.0.4",
     "prettier": "^1.19.1",
     "right-pad": "^1.0.1",
     "simple-git": "^1.131.0",
+    "tslint": "^5.5.0",
     "typescript": "^3.8.2"
   }
 }
