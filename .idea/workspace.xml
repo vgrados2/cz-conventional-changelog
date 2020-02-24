@@ -4,6 +4,7 @@
     <list default="true" id="69ddbb90-fbd5-4f93-b86d-d7f139c53062" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -28,5 +28,6 @@
     "simple-git": "^1.131.0",
     "tslint": "^5.5.0",
     "typescript": "^3.8.2"
-  }
+  },
+  "devDependencies": {}
 }
