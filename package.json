@@ -23,7 +23,6 @@
   "author": "Victor Grados <vgrados2@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@ibk/rules-tslint": "^1.2.5",
     "chalk": "^2.4.1",
     "codelyzer": "^4.5.0",
     "husky": "^4.2.3",
