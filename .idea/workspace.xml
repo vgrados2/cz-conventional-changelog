@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ddbb90-fbd5-4f93-b86d-d7f139c53062" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commons/types.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/engine-branch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/engine.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="refactor/AAAAAAAAWWWWW" />
+        <entry key="$PROJECT_DIR$" value="feat/VITOCHO" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,16 +39,16 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
-      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-tslint" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\bin" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-git\commons" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-tslint" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-git" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-tslint" />
     </key>
   </component>
   <component name="SvnConfiguration">
