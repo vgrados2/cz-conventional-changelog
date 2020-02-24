@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69ddbb90-fbd5-4f93-b86d-d7f139c53062" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular-old.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/modules/ibk-conventions-tslint/ibk-tslint-angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -34,18 +34,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules/ibk-conventions-tslint" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventions-tslint" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\bin" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-git\commons" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-tslint" />
-      <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-git" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\VICTOR GRADOS\Everis\PRUEBAS\cz-conventional-changelog\modules\ibk-conventional-versioning" />
